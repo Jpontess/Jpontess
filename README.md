@@ -55,11 +55,6 @@
 
 ---
 
-### 🐍 Contribuições
-![Snake animation](https://github.com/Jpontess/Jpontess/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 💬 Frase que me define
 > "Aprender, criar e compartilhar — o código é apenas o começo."
 
