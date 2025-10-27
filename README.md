@@ -48,9 +48,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3opedropontes/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:joaopontes.dev@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </div>
 
 ---
